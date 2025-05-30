@@ -60,7 +60,7 @@
 - API Client: **Axios**
 
 ### 🧪 How to Run
-1. Clone the repository and open it in **VS Code**
-2. Open a terminal window
-3. Install dependencies: npm install
-4. Start the app: npm start
+1. Clone the repository and open it in **IntelliJ IDEA**
+2. Project Architecture: Layered Architecture
+Controller → Service (Interface) → ServiceImpl (Implementation) → Repository → Database
+
