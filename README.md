@@ -62,5 +62,6 @@
 ### 🧪 How to Run
 1. Clone the repository and open it in **IntelliJ IDEA**
 2. Project Architecture: Layered Architecture
+
 Controller → Service (Interface) → ServiceImpl (Implementation) → Repository → Database
 
